@@ -1,0 +1,35 @@
+h1 {
+	background-color: #44416a;
+	font-family: 'Handlee', cursive;
+	text-align: center;
+	color: #800080;
+	font-size: 60px;
+	border: 1px solid black;
+	padding: 5px;
+	margin: 5px;
+}
+p {
+	font-family: 'Calligraffitti', cursive;
+}
+
+body {
+	background-image: url("sakura.png");
+}
+nav a:hover {
+    background-color: #FFC0CB;
+    text-align: center;
+    font-family: 'Handlee', cursive;
+    border: 1px solid black;
+    padding: 0
+    margin: 0;
+}
+footer {
+	background-color: #44416a;
+	clear: both;
+	text-align: center;
+	font-family: 'Handlee', cursive;
+	border: 1px solid black;
+	padding: 5px;
+	margin: 5px;
+	
+}
